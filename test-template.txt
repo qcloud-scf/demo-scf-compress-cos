@@ -1,0 +1,6 @@
+{
+"region":"ap-guangzhou",
+"bucket":"testzip",
+"source":"pic/",
+"zipfile":"pic.zip"
+}
